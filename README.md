@@ -3,13 +3,17 @@
 The Meeting Scheduler is a tool that allows employees within an organization to create and manage meetings seamlessly.
 
 User Roles
+
 HR Admin:
+
 The HR Admin can manage employees within the organization. They have the ability to:
 
 Add new employees.
 Edit employee profiles.
 Deactivate employees when they are no longer part of the organization.
+
 Employee:
+
 Employees can manage their meetings and interact with other employees. They are able to:
 
 Create meetings with other employees.
