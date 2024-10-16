@@ -1,4 +1,5 @@
 **Meeting Scheduler Application**
+
 The Meeting Scheduler is a tool that allows employees within an organization to create and manage meetings seamlessly.
 
 User Roles
